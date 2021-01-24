@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome"
 ---
 blabla
 Use the left arrow to go back!
